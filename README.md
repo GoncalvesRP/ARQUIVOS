@@ -38,9 +38,9 @@ Melhoria 1, Melhoria 2
 
 Contribuidor Principal: https://github.com/goncalvesrp 
 
-## Exemplo de Código Fonte no GitHub
+# Exemplo de Código Fonte no GitHub
 
-# Código da função soma
+## Código da função soma
 
 ```javascript
     function soma(a, b) {
