@@ -47,3 +47,11 @@ Contribuidor Principal: https://github.com/goncalvesrp
         return a + b;
     }
 ```
+
+## Listya de tarefas a fazer:
+
+- [ x ] Exemplo 1
+- [] Exemplo 2
+- [] Exemplo 3
+- [ x ] Exemplo 4
+- [ x ] Exemplo 5
