@@ -17,3 +17,9 @@ Melhoria 1, Melhoria 2
 * JavaScript
 * PHP
 * MySQL
+
+### Funcionalidades a desenvolver:
+
+1. Exemplo 1
+2. Exemplo 2
+3. Exemplo 3
