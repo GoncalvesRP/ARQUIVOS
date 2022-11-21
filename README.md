@@ -50,8 +50,8 @@ Contribuidor Principal: https://github.com/goncalvesrp
 
 ## Listya de tarefas a fazer:
 
-- [ x ] Exemplo 1
-- [] Exemplo 2
-- [] Exemplo 3
-- [ x ] Exemplo 4
-- [ x ] Exemplo 5
+- [x] Exemplo 1
+- [ ] Exemplo 2
+- [ ] Exemplo 3
+- [x] Exemplo 4
+- [x] Exemplo 5
