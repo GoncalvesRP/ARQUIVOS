@@ -27,3 +27,7 @@ Melhoria 1, Melhoria 2
 2. Exemplo 2
 
 3. Exemplo 3
+
+#### Imagem Local
+
+![Tux Gandalf](img/tux-gandalf.png)
