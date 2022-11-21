@@ -31,3 +31,7 @@ Melhoria 1, Melhoria 2
 #### Imagem Local
 
 ![Tux Gandalf](img/tux-gandalf.png)
+
+## Links interessantes:
+
+[Tecmint](https://www.tecmint.com/)
