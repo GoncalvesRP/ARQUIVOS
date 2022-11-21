@@ -21,5 +21,9 @@ Melhoria 1, Melhoria 2
 ### Funcionalidades a desenvolver:
 
 1. Exemplo 1
+    1. Exemplo 1.1
+    2. Exemplo 1.2
+    3. Exemplo 1.3
 2. Exemplo 2
+
 3. Exemplo 3
